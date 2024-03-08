@@ -1,0 +1,19 @@
+button{
+  color: #ffffff;
+  font-weight: 500;
+}
+
+button:hover{
+  background-color: #E50914;
+  color: #ffffff;
+}
+
+img{
+  width: 100%;
+  cursor: pointer;
+
+}
+
+h6{
+  color: #ffffff;
+}
